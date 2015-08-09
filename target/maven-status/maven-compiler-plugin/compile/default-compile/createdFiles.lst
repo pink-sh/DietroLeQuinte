@@ -1,0 +1,15 @@
+it/uniroma1/lcl/dietrolequinte/search/TestSearcher.class
+it/uniroma1/lcl/dietrolequinte/loader/Query.class
+it/uniroma1/lcl/dietrolequinte/Interrogazione.class
+it/uniroma1/lcl/dietrolequinte/utils/DietroLeQuinteUtils.class
+it/uniroma1/lcl/dietrolequinte/utils/FileWalker.class
+it/uniroma1/lcl/dietrolequinte/loader/LoaderUtils.class
+it/uniroma1/lcl/dietrolequinte/loader/Loader.class
+it/uniroma1/lcl/dietrolequinte/loader/LogFile.class
+it/uniroma1/lcl/dietrolequinte/Utente.class
+it/uniroma1/lcl/dietrolequinte/utils/FileUtils.class
+it/uniroma1/lcl/dietrolequinte/loader/LogTypeInterface.class
+it/uniroma1/lcl/dietrolequinte/cmdLine/DietroLeQuinte.class
+it/uniroma1/lcl/dietrolequinte/loader/Chat.class
+it/uniroma1/lcl/dietrolequinte/search/Searcher.class
+it/uniroma1/lcl/dietrolequinte/search/SearchResult.class
